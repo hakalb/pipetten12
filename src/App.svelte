@@ -10,9 +10,9 @@
 </script>
 
 <main>
-  <h1>Svelte + Node.js API</h1>
+  <h1>Pipetten12</h1>
   <h2>
-    Deployed with
+    Svelte + Node.js API deployed with
     <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">
       Vercel
     </a>
